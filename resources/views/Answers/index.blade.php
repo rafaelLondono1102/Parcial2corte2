@@ -3,8 +3,10 @@
 @section('content')
 <div class="container">
    <h1>Rafael Londoño Botero</h1>
+   <h1>Hernando Nuñez Pinzon</h1>
+   <h1>Natalia Segura Ramirez</h1>
    <br>
-   <a class="btn btn-primary" href="{{ route('answers.create')}}" role="button">Link</a>
+   <a class="btn btn-primary" href="{{ route('answers.create')}}" role="button">Responder parcial</a>
    <br>
    <table class="table">
     <thead>
